@@ -1,0 +1,7 @@
+{
+  "port": 5000,
+  "socketPort": 5001,
+  "jwtSecret": "rodion",
+  "mongoUri":"mongodb://localhost/bh",
+  "imagesPath":"client/public/images"
+}
